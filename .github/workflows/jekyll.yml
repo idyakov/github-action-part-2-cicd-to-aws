@@ -51,7 +51,7 @@ jobs:
         aws-region: ${{ env.AWS_REGION_NAME }}
         
     - name: Create new ElasticBeanStalk Application
-      run: |
+      run: 
         aws elasticbeanstalk create-application-version \
         --application-name${{ env.EB_APPLICATION_NAME }} \
         --source-budle S3Bucket="${{ env.B_PACKAGE_S3_BUCKET_NAME }}",S3Key"${{ DEPLOY_PACKAGE_NAME }}" \
