@@ -42,6 +42,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: [my_ci_part]
 
+
     steps:
     - name: Configure AWS credentials
       uses: aws-actions/configure-aws-credentials@v1
