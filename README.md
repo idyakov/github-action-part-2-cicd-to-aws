@@ -1,10 +1,17 @@
 # GitHub Actions deploy Flask to AWS Elastic Beanstalk
 
+First we need 
+1	AWS IAM USER AWS ACCESS KEY and AWS SECRET Key:
+		S3 Full Access
+		Elastic Beanstalk Full Access
 
+2 AWS S3 Bucket for saving Deployment Pakages
+3 AWS Elastic Beanstalk Appliaction and Environment
+
+
+Creating the User into AWS (IAM)
 
 
 Status of Last Deployment:<br>
 <img src="https://github.com/adv4000/github-actions-part-2-cicd-to-aws/workflows/CI-CD-Pipeline-to-AWS-ElasticBeastalk/badge.svg?branch=master"><br>
 
-
-Copyleft by Denis Astahov ADV-IT 2019.
