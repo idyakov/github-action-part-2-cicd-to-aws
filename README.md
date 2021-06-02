@@ -13,5 +13,4 @@ First we need
 
 Creating the User into AWS (IAM)
 	github-action
-		AKIA5V2TWVA5IZXK3APC
-		J9PFVYbV4TCm9dgLcoXlqEeU7wmdqGKPuh0MeNsH
+
