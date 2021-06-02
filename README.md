@@ -13,5 +13,4 @@ Creating the User into AWS (IAM)
 
 
 Status of Last Deployment:<br>
-<img src="https://github.com/idyakov/github-actions-part-2-cicd-to-aws/workflows/CI-CD-Pipeline-to-AWS-ElasticBeanstalk/badge.svg?branch=main"><br>
-
+<img src="https://github.com/idyakov/github-action-part-2-cicd-to-aws/workflows/CI-CD-Pipeline-to-AWS-ElasticBeanstalk/badge.svg?branch=main"><br>
